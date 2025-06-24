@@ -10,6 +10,8 @@ Este proyecto es el sitio web oficial de Alada Producciones, una empresa enfocad
 
 *CSS3 / Flexbox / Grid: Estilos modernos y responsivosv
 
+*PHP: Funciones
+
 *JavaScript: Interactividad (menú, animaciones, validaciones)
 
 *JSP y Servlets (si aplica): Lógica de servidor y manejo de formularios
