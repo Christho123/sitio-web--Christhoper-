@@ -1,30 +1,41 @@
-***Alada Producciones - Sitio Web Corporativo***
+# ALADA CATERING Y EVENTOS
 
-***Descripción***
+## ¿Qué contiene este proyecto?
 
-Este proyecto es el sitio web oficial de Alada Producciones, una empresa enfocada en servicios de producción audiovisual. El objetivo del sitio es presentar los servicios, el equipo de trabajo, los proyectos realizados y ofrecer una vía de contacto directo con los clientes.
+Este es un sitio web moderno y elegante para **ALADA Catering y Eventos**, desarrollado como parte de un proyecto web.  
+Está enfocado en promocionar servicios de organización de eventos, banquetes y celebraciones en Lima, Perú.
 
-***Tecnologías Utilizadas***
+El proyecto incluye:
 
-*HTML5: Estructura del sitio web
+- Estructura completa con secciones: **Inicio, Nosotros, Portafolio, Servicios y Contacto**.
+- Diseño **moderno**, **responsivo** y con animaciones elegantes.
+- Carrusel de imágenes y efectos visuales llamativos.
+- **Formulario de contacto** funcional para recibir consultas.
+- Botones en varias secciones que redirigen directamente a un **chat de WhatsApp**.
+- Información de contacto clara: número de WhatsApp, ubicación (Lima, Perú), enlaces a redes sociales.
+- Integración de imágenes y audios para una mejor experiencia del usuario.
 
-*CSS3 / Flexbox / Grid: Estilos modernos y responsivosv
+## Tecnologías utilizadas
 
-*PHP: Funciones
+- HTML5
+- CSS3 (con animaciones)
+- JavaScript (JS)
+- PHP
+- JSON
+- Recursos multimedia: imágenes y audios
 
-*JavaScript: Interactividad (menú, animaciones, validaciones)
+## ¿Cómo abrir el proyecto?
 
-*JSP y Servlets (si aplica): Lógica de servidor y manejo de formularios
+1. Clona o descarga este repositorio.
+6. Puedes abrir `index.html` directamente si solo deseas revisar el diseño sin funcionalidades en PHP.
 
-***Características principales***
+## ¿Qué se aprendió?
 
-*Diseño responsivo y moderno
+Durante el desarrollo de este sitio web, se aprendió a:
 
-*Animaciones suaves con CSS y JavaScript
-
-*Formulario de contacto con validaciones
-
-*Secciones: Inicio, Nosotros, Servicios, Contacto
-
-*Integración con backend (opcional) para envío de mensajes o login
-
+- Organizar correctamente un proyecto web profesional.
+- Integrar HTML, CSS, JavaScript y PHP en un solo flujo de trabajo.
+- Crear experiencias de usuario atractivas con animaciones y efectos visuales.
+- Usar JSON para estructurar datos dinámicos.
+- Enlazar formularios con servicios de mensajería como WhatsApp.
+- Mejorar la usabilidad y accesibilidad en páginas informativas.
