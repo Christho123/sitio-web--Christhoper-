@@ -27,7 +27,7 @@ El proyecto incluye:
 ## ¿Cómo abrir el proyecto?
 
 1. Clona o descarga este repositorio.
-6. Puedes abrir `index.html` directamente si solo deseas revisar el diseño sin funcionalidades en PHP.
+2. Puedes abrir `test.html` directamente si solo deseas revisar el diseño sin funcionalidades en PHP.
 
 ## ¿Qué se aprendió?
 
